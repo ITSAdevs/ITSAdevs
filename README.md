@@ -1,9 +1,8 @@
 # ⚡ ITSA DEV TEAM
 
-# https://raw.githubusercontent.com/ITSAdevs/ITSAdevs/main/assets/itsa-banner-1.png
 <p align="center">
   <img
-    src="[https://raw.githubusercontent.com/ITSAdevs/ITSAdevs/main/assets/itsa-banner-1.png](https://github.com/ITSAdevs/ITSAdevs/blob/d9ff76dfd9561c493242259e3b011ec60cf65fe9/assets/itsa-banner-1.png)"
+    src="https://raw.githubusercontent.com/ITSAdevs/ITSAdevs/main/assets/itsa-banner-1.png"
     alt="ITSA DEV TEAM Banner"
     width="100%"
   />
