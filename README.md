@@ -1,7 +1,11 @@
 # 💻 ITSA DEV TEAM
 
 <p align="center">
-  <img src="assets/itsa-banner.png" alt="ITSA Dev Team Banner" width="100%" />
+  <img
+    src="assets/itsa-banner.png"
+    alt="ITSA DEV TEAM"
+    width="100%"
+  />
 </p>
 
 <h1 align="center">⚡ ITSA DEV TEAM</h1>
