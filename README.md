@@ -1,108 +1,148 @@
-# 💻 ITSA DEV TEAM
+# ⚡ ITSA DEV TEAM
 
 <p align="center">
-  <img
-    src="assets/itsa-banner.png"
-    alt="ITSA DEV TEAM"
-    width="100%"
-  />
+  <img src="assets/itsa-banner.png" alt="ITSA DEV TEAM Banner" width="100%" />
 </p>
 
-<h1 align="center">⚡ ITSA DEV TEAM</h1>
+<h1 align="center">ITSA DEV TEAM</h1>
 
-<h3 align="center">
-  Building Ideas Into Reality.
-</h3>
+<h3 align="center">Building Ideas Into Reality.</h3>
 
 <p align="center">
-  <b>Develop • Collaborate • Innovate</b>
+  <b>DEVELOP • COLLABORATE • INNOVATE</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/University-Islamic%20Azad%20University-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Sanandaj-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Community-Technology-8B5CF6?style=for-the-badge" />
+  <a href="https://github.com/ITSAdevs">
+    <img src="https://img.shields.io/badge/GitHub-ITSAdevs-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Community-Technology-8B5CF6?style=for-the-badge" alt="Technology Community" />
+  <img src="https://img.shields.io/badge/Location-Sanandaj-0EA5E9?style=for-the-badge" alt="Sanandaj" />
+  <img src="https://img.shields.io/badge/University-Islamic%20Azad%20University-6C63FF?style=for-the-badge" alt="University" />
 </p>
 
 ---
 
-## 👾 Who We Are
+## 👾 About Us
 
-**ITSA DEV TEAM** is the technical development team of the Information Technology Scientific Association at Islamic Azad University, Sanandaj Branch.
+**ITSA DEV TEAM** is the Technical Development Team of the Information Technology Scientific Association at **Islamic Azad University, Sanandaj Branch**.
 
-We are a student-driven technology community focused on learning, building, sharing knowledge, and turning creative ideas into practical solutions.
+We are a student-driven technology community built around creativity, collaboration, continuous learning, and practical development.
 
-Our goal is to create an environment where students can explore technology, develop real-world skills, collaborate on projects, and grow together as developers and innovators.
+Our purpose is to create an environment where students can explore modern technologies, exchange knowledge, work on meaningful projects, and transform their ideas into real-world solutions.
+
+We believe that technology grows stronger when people build together.
+
+## 🚀 Our Vision
+
+To build an active and innovative student technology community that encourages technical growth, supports creative ideas, and creates opportunities for collaboration and real-world experience.
 
 ## 🎯 Our Mission
 
-- 🚀 Encourage innovation and technical creativity.
-- 💡 Turn ideas into practical software solutions.
-- 🤝 Build a collaborative student developer community.
-- 📚 Share knowledge through workshops and technical events.
-- 🛠️ Develop practical skills through real-world projects.
-- 🌐 Connect students with modern technologies and development practices.
+- 💡 Encourage creativity, innovation, and problem-solving.
+- 💻 Promote practical software development skills.
+- 🤝 Build a collaborative environment for student developers.
+- 📚 Share knowledge through workshops, seminars, and technical events.
+- 🧪 Encourage experimentation, research, and project development.
+- 🌐 Introduce students to emerging technologies and industry practices.
+- 🌱 Support students in their academic and professional growth.
 
 ## 🧠 What We Do
 
-| Field | Activities |
-|---|---|
-| 💻 Software Development | Building software and web applications |
-| 🤖 Artificial Intelligence | Exploring AI and Machine Learning |
-| 📊 Data Science | Data analysis and intelligent solutions |
-| 🌐 Web Technologies | Frontend and Backend development |
-| 🔐 Cybersecurity | Learning secure development principles |
-| 🎓 Education | Workshops, seminars and technical sessions |
-| 💡 Innovation | Brainstorming and developing new ideas |
+We focus on different areas of technology and software development.
 
-## ⚙️ Technologies & Tools
+| Area | Focus |
+|:---|:---|
+| 💻 Software Development | Software engineering and application development |
+| 🌐 Web Technologies | Frontend, backend, and web applications |
+| 🤖 Artificial Intelligence | AI, machine learning, and intelligent systems |
+| 📊 Data Science | Data analysis and data-driven solutions |
+| 🔐 Cybersecurity | Security awareness and secure development |
+| 🎓 Technical Education | Workshops, seminars, and learning sessions |
+| 💡 Innovation | Idea development, prototyping, and problem-solving |
+| 🤝 Team Collaboration | Group projects and knowledge sharing |
+
+## 🛠️ Technologies & Tools
+
+Our team explores a wide range of technologies and development tools.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,fastapi,django,git,github,vscode,linux,mysql,mongodb&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,fastapi,django,git,github,vscode,linux,mysql,mongodb&perline=5" alt="Technologies and Tools" />
 </p>
 
-*Our technology stack evolves as our projects and interests grow.*
+<p align="center">
+  <i>Learning never stops. Our technology interests grow with every new project.</i>
+</p>
 
-## 🏗️ Our Projects
+## 🏗️ Projects & Development
 
-We aim to develop and maintain projects that demonstrate our technical abilities, creativity, and teamwork.
+We believe the best way to learn technology is to build something with it.
 
-Our repositories are intended to include:
+Our GitHub organization is intended to serve as a collaborative space for:
 
-- 📦 Student and team software projects
-- 🧪 Experimental and research-oriented projects
-- 🔧 Open-source tools and utilities
-- 📚 Educational resources and learning materials
-- 🌱 Innovative ideas and prototypes
+- 📦 Student and team software projects.
+- 🧪 Research-oriented and experimental projects.
+- 🔧 Open-source tools and utilities.
+- 📚 Educational resources and technical documentation.
+- 🌱 Innovative ideas and prototypes.
+- 🤝 Collaborative development and shared learning.
 
-**Stay tuned — more projects are coming!**
+As our community grows, this organization will become a place to showcase our work, share knowledge, and build projects together.
+
+## 🎓 Workshops & Events
+
+Learning is an essential part of our community.
+
+We organize and support educational and technical activities, including:
+
+- Practical programming workshops.
+- Artificial intelligence and machine learning sessions.
+- Web development and software engineering workshops.
+- Technical seminars and knowledge-sharing events.
+- Student project presentations.
+- Collaborative idea-generation activities.
+
+Our goal is to connect theoretical knowledge with practical experience.
+
+## 💜 Core Values
+
+| Value | What It Means |
+|:---|:---|
+| Innovation | Exploring new ideas and possibilities |
+| Collaboration | Growing through teamwork and shared knowledge |
+| Learning | Improving continuously and staying curious |
+| Creativity | Approaching challenges with fresh perspectives |
+| Responsibility | Building thoughtfully and professionally |
+| Community | Helping others learn, contribute, and succeed |
 
 ## 🤝 Join Our Community
 
-Are you interested in programming, technology, artificial intelligence, or building something meaningful?
+Are you passionate about programming, technology, artificial intelligence, or innovation?
 
-There is room for curious minds, creative thinkers, and passionate learners.
+Whether you are an experienced developer, a university student, or someone who simply loves learning, we believe there is always room to grow together.
 
-You can contribute by:
+You can get involved by:
 
-- Sharing innovative ideas.
+- Exploring and contributing to our repositories.
+- Sharing ideas for future projects.
+- Reporting bugs and suggesting improvements.
 - Participating in collaborative projects.
-- Improving existing repositories.
-- Reporting issues and suggesting features.
-- Sharing knowledge and helping other developers.
+- Joining our educational activities and technical events.
+- Sharing your knowledge with other students.
 
-Every contribution matters. 💜
+**You don't have to know everything to get started. You just have to be willing to learn.**
 
-## 🌐 Find Us
+## 🌐 Connect With Us
 
 <p align="center">
   <a href="https://github.com/ITSAdevs">
-    <img src="https://img.shields.io/badge/GitHub-ITSAdevs-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Visit%20Our%20Organization-181717?style=for-the-badge&logo=github" alt="Visit GitHub Organization" />
   </a>
 </p>
 
 <p align="center">
   <b>ITSA DEV TEAM</b><br/>
+  Technical Development Team<br/>
   Information Technology Scientific Association<br/>
   Islamic Azad University — Sanandaj Branch
 </p>
