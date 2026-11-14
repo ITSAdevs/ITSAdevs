@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ITSAdevs/ITSAdevs/main/assets/itsa-banner.png"
+    src="https://constants"
     alt="ITSA DEV TEAM Banner"
     width="100%"
   />
