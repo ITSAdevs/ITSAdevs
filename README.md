@@ -69,7 +69,7 @@ We focus on different areas of technology and software development.
 Our team explores a wide range of technologies and development tools.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,fastapi,django,git,github,vscode,linux,mysql,mongodb&perline=5" alt="Technologies and Tools" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,dart,rust,html,css,sass,react,nodejs,fastapi,django,flutter,git,github,vscode,linux,ubuntu,mysql,mongodb&perline=5" alt="Technologies and Tools" />
 </p>
 
 <p align="center">
