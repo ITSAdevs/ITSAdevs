@@ -8,8 +8,6 @@
   />
 </p>
 
-<h1 align="center">ITSA DEV TEAM</h1>
-
 <h3 align="center">Building Ideas Into Reality.</h3>
 
 <p align="center">
